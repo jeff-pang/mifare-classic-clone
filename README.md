@@ -45,12 +45,11 @@ then dump a copy of your magic card
 
 then place your magic card on the nfc reader and the following command will write to the magic card. Note that the command is case sensitive
 
-`nfc-mfclassic W a original.dmp blank.dmp` 
+`nfc-mfclassic W a blank.dmp original.dmp` 
 
 or
 
-`nfc-mfclassic W b original.dmp blank.dmp` 
-
+`nfc-mfclassic W b blank.dmp  original.dmp`
 
 ## References
 
