@@ -50,3 +50,10 @@ then place your magic card on the nfc reader and the following command will writ
 or
 
 `nfc-mfclassic W b original.dmp blank.dmp` 
+
+
+## References
+
+https://github.com/nfc-tools/libnfc/issues/330
+https://manpages.org/nfc-mfclassic
+https://gist.github.com/alphazo/3303282
